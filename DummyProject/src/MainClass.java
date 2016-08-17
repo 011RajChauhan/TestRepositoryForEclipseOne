@@ -1,6 +1,6 @@
 
 public class MainClass {
 	public static void main(String[]args){
-		System.out.println("dummy project one");
+		System.out.println("second commit");
 	}
 }
